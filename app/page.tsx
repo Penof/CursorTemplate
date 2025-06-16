@@ -41,7 +41,7 @@ export default function Home() {
             <div className="bg-blue-50 dark:bg-[#334155] rounded-xl p-6 shadow text-center">
               <Image src="/window.svg" alt="Responsive" width={40} height={40} className="mx-auto mb-4" />
               <h3 className="font-semibold text-lg mb-2">Responsive</h3>
-              <p className="text-gray-600 dark:text-gray-300">Un design qui s'adapte parfaitement à tous les écrans, du mobile au desktop.</p>
+              <p className="text-gray-600 dark:text-gray-300">Un design qui s&#39;adapte parfaitement à tous les écrans, du mobile au desktop.</p>
             </div>
             <div className="bg-blue-50 dark:bg-[#334155] rounded-xl p-6 shadow text-center">
               <Image src="/globe.svg" alt="Moderne" width={40} height={40} className="mx-auto mb-4" />
@@ -56,7 +56,7 @@ export default function Home() {
       <section id="about" className="py-16 px-4 max-w-4xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-4 text-blue-700 dark:text-blue-300">À propos</h2>
         <p className="text-gray-700 dark:text-gray-200 text-lg">
-          Ce template est conçu pour vous permettre de démarrer rapidement avec Next.js et Tailwind CSS. Il met l'accent sur la simplicité, la rapidité et la beauté du design.
+          Ce template est conçu pour vous permettre de démarrer rapidement avec Next.js et Tailwind CSS. Il met l&#39;accent sur la simplicité, la rapidité et la beauté du design.
         </p>
       </section>
 
